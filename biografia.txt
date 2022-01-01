@@ -1,8 +1,7 @@
 Mi nombre es Brallan
-Asca y tengo 24 años
-Soy el CEO de Platzi y en
-mis tiempos libres corro
-carreras, escribo libros y
+Asca
+Soy el CTO de Platzi y en
+mis tiempos libres juego
+tennis, escribo libros y
 hago cosas raras con
-Arduinos
-Actualmente tengo trabajo :D en softlab.
+Raspberry Pis
