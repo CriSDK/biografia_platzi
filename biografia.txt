@@ -1,5 +1,5 @@
 Mi nombre es Brallan
-Asca y tengo 24 años
+Asca Arevalo y tengo 24 años
 Soy el CEO de Platzi y en
 mis tiempos libres corro
 carreras, escribo libros y
@@ -9,3 +9,5 @@ Arduinos
 
 sadsaddsasad
 acá tiene que haber conflico master
+
+Editando desde el origin
